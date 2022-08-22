@@ -1,17 +1,13 @@
 ---
-title: "Java-ch02-증감연산자"
-excerpt_separator: "<!--more-->"
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
+layout: default
+title: "Java-증감연산자"
+parent: Java study
+nav_order: 4
 ---
 
-증감연산자
+# 증감연산자
+{: .no_toc }
 
-<!--more-->
 
 ```java
 

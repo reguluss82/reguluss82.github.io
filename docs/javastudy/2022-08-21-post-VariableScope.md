@@ -1,11 +1,12 @@
 ---
+layout: default
 title: "Java-변수 scope"
-excerpt_separator: "<!--more-->"
-categories:
-  - Blog
-tags:
-  - java
+parent: Java study
+nav_order: 3
 ---
+
+# Java-변수 scope
+{: .no_toc }
 
 ```java
 package ch02;

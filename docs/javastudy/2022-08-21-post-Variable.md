@@ -1,16 +1,16 @@
 ---
-title: "Java-Java의 변수"
-excerpt_separator: "<!--more-->"
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
+layout: default
+title: Java-Java의 변수
+parent: Java study
+nav_order: 2
 ---
-<!--more-->
-java의 변수사용
-<!--more-->
+
+# java의 변수사용
+{: .no_toc }
+
+
+
+
 ```java
 package ch02;
 
