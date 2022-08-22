@@ -1,12 +1,14 @@
 ---
-title: "Java-switch"
-excerpt_separator: "<!--more-->"
-categories:
-  - Blog
-tags:
-  - java
+layout: default
+title: "Java-switch 그리고 integer.parsint"
+parent: Java study
+nav_order: 7
 ---
-switch 사용법과 integer.parsint에 대해
+
+# switch 사용법과 integer.parsint에 대해
+{: .no_toc }
+
+
 ```java
 package ch03;
 

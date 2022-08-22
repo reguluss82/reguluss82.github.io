@@ -1,11 +1,13 @@
+
 ---
+layout: default
 title: "java-while과 System.in.read"
-excerpt_separator: "<!--more-->"
-categories:
-  - Blog
-tags:
-  - java
+parent: Java study
+nav_order: 9
 ---
+
+# java-while과 System.in.read
+{: .no_toc }
 
 System.in.read를 배우면서 ASKII에 대해 배웠다.<!--more-->
 실무에서도 여러 협업자들과, 여러프로그램에서 문자들을 복사 붙여넣기 하다보면

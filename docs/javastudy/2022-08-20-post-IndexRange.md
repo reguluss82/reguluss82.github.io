@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index의 범위
+title: Java-Index의 범위
 parent: Java study
 nav_order: 1
 ---

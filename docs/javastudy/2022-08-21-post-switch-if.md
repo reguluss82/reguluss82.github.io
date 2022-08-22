@@ -1,12 +1,12 @@
 ---
+layout: default
 title: "java-switch-if 중첩으로 사용"
-excerpt_separator: "<!--more-->"
-categories:
-  - Blog
-tags:
-  - java
+parent: Java study
+nav_order: 8
 ---
-중첩 switch문과 if문 같이 쓰기
+
+# 중첩 switch문과 if문 같이 쓰기
+{: .no_toc }
 
 ```java
 package ch03;
