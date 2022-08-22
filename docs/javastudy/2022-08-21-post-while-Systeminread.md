@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "java-while과 System.in.read"
@@ -9,11 +8,11 @@ nav_order: 9
 # java-while과 System.in.read
 {: .no_toc }
 
-System.in.read를 배우면서 ASKII에 대해 배웠다.<!--more-->
+System.in.read를 배우면서 ASKII에 대해 배웠다.
 실무에서도 여러 협업자들과, 여러프로그램에서 문자들을 복사 붙여넣기 하다보면
-코드에 ENTER 같은 입력값이 섞이게 되어 문제가 생길수도 있다고 한다.<!--more-->
-오류가 발생했을때 ASKII 관련 해서도 확인해보는게 좋겠다.<!--more-->
-<!--more-->
+코드에 ENTER 같은 입력값이 섞이게 되어 문제가 생길수도 있다고 한다.
+오류가 발생했을때 ASKII 관련 해서도 확인해보는게 좋겠다.
+
 
 ```java
 package ch03;
