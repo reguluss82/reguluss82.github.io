@@ -8,7 +8,7 @@ nav_order: 1
 # DB Oracle 계정생성 및 권한 부여
 {: .no_toc }
 
-```SQL
+```sql
 -- 계정 : scott , password : tiger
 CREATE USER scott IDENTIFIED BY tiger;
 -- DBA 권한(관리자권한)을 scott 에게 부여
