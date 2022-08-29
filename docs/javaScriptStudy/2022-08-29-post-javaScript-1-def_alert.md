@@ -8,7 +8,7 @@ nav_order: 1
 # javaScript 개념과 alert메소드
 {: .no_toc }
 
-```javascript
+```js
 <!DOCTYPE html>
 <html>
 <head>
