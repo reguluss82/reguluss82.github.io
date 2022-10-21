@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spring study
+title: SpringStudy
 has_children: true
 permalink: /docs/springStudy
 ---
